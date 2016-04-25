@@ -1,6 +1,6 @@
-nav, ul {
+/*nav, ul {
   border: 1px solid darkgreen;
-}
+}*/
 /*​
 header, section, footer {
   width: 100%;
@@ -18,4 +18,4 @@ footer::before {
 ​
 /*div::before {
   content: "class: " attr(class);
-}*/*/
+}*/
